@@ -22,5 +22,6 @@ public class Main {
 
         Validateur valMail2 = new Validateur(new FormatMail(),txt);
         System.out.println("Est-ce que " + txt + " est un entier valide ?" + valMail2.isValide());
+
     }
 }

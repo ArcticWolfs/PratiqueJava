@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d7fbcf8-4793-4586-89dc-0cddb4006184" name="Default Changelist" comment="" />
+    <list default="true" id="7d7fbcf8-4793-4586-89dc-0cddb4006184" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Facture/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jeux_de_craps/src/be/heh/www/Craps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jeux_de_craps/src/be/heh/www/De.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern_Observer_Exercice1/src/be/heh/www/ConvBin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern_Observer_Exercice1/src/be/heh/www/ConvHex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern_Observer_Exercice1/src/be/heh/www/ConvOctale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern_Observer_Exercice1/src/be/heh/www/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern_Observer_Exercice1/src/be/heh/www/Saisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern_Strategy_Exercice2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Facture/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Facture/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Facture/src/be/heh/www/Facture.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Facture/src/be/heh/www/Facture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Composite/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Composite/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Composite/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Composite/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Composite/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Composite/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Composite/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Composite/Design pattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Composite/out/production/Design pattern/be/heh/www/Benefice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Composite/out/production/Design pattern/be/heh/www/BeneficeComposite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Composite/out/production/Design pattern/be/heh/www/BeneficeMagasin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Composite/out/production/Design pattern/be/heh/www/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Composite/src/be/heh/www/Benefice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Composite/src/be/heh/www/BeneficeComposite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Composite/src/be/heh/www/BeneficeMagasin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Composite/src/be/heh/www/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/Pattern_Strategy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/out/production/Pattern_Strategy/META-INF/Pattern_Strategy.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/out/production/Pattern_Strategy/be/heh/www/Affichage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/out/production/Pattern_Strategy/be/heh/www/AffichageAllemagne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/out/production/Pattern_Strategy/be/heh/www/AffichageRoyaumeUni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/out/production/Pattern_Strategy/be/heh/www/Default.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/out/production/Pattern_Strategy/be/heh/www/Facture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/out/production/Pattern_Strategy/be/heh/www/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/src/be/heh/www/Affichage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/src/be/heh/www/AffichageAllemagne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/src/be/heh/www/AffichageRoyaumeUni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/src/be/heh/www/Default.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/src/be/heh/www/Facture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy/src/be/heh/www/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy_Exercice2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pattern_Strategy_Exercice2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern_Strategy_Exercice2/src/be/heh/www/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pattern_Strategy_Exercice2/src/be/heh/www/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +68,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Y4LgbtSHfQgvJdueMcHblY3rfj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Exercice1" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -60,5 +118,18 @@
       <updated>1582197031621</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

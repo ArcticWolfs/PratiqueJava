@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48200192-6c43-4269-a105-40b8902eddc2" name="Default Changelist" comment="" />
+    <list default="true" id="48200192-6c43-4269-a105-40b8902eddc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Facture/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Frequence_Cardiaque/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jeux_de_craps/src/be/heh/www/Craps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jeux_de_craps/src/be/heh/www/De.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Facture/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Facture/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Facture/src/be/heh/www/Facture.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Facture/src/be/heh/www/Facture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Frequence_Cardiaque/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Frequence_Cardiaque/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/heh/www/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/heh/www/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +27,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YefuAGPgijSLsVG6WmDLdLp5QW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pattern_Strategy" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -58,5 +77,16 @@
       <updated>1583308200950</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

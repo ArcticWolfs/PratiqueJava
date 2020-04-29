@@ -6,24 +6,36 @@ public class Facture
     private int numeroFacture;
     private float montantHT;
 
-    public int getTauxDeTva() {
+    public int getTauxDeTva()
+    {
         return tauxDeTva;
     }
 
-    public int getNumeroFacture() {
+    public int getNumeroFacture()
+    {
         return numeroFacture;
     }
 
-    public void setNumeroFacture(int numeroFacture) {
+    public void setNumeroFacture(int numeroFacture)
+    {
         this.numeroFacture = numeroFacture;
     }
 
-    public float getMontantHT() {
+    public float getMontantHT()
+    {
         return montantHT;
     }
 
-    public void setMontantHT(float montantHT) {
-        this.montantHT = montantHT;
+    public void setMontantHT(float montantHT)
+    {
+        if (montantHT > 0)
+        {
+            this.montantHT = montantHT;
+        }
+        else
+        {
+            this.montantHT = 0;
+        }
     }
 
     public Facture()
