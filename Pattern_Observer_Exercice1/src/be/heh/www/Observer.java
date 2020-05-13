@@ -1,7 +1,6 @@
 package be.heh.www;
 
-public abstract class Observer
+public interface Observer
 {
-    protected Saisi saisi;
-    public abstract void update(int nombre);
+    public void update(int nombre);
 }

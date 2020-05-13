@@ -1,6 +1,6 @@
 package be.heh.www;
 
-public class ConvBin extends Observer
+public class ConvBin implements Observer
 {
     public ConvBin()
     {

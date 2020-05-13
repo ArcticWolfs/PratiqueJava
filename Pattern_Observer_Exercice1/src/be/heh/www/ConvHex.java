@@ -1,6 +1,6 @@
 package be.heh.www;
 
-public class ConvHex extends Observer
+public class ConvHex implements Observer
 {
     public ConvHex()
     {

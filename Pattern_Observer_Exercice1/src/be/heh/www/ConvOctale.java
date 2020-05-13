@@ -1,6 +1,6 @@
 package be.heh.www;
 
-public class ConvOctale extends Observer
+public class ConvOctale implements Observer
 {
     public ConvOctale()
     {
